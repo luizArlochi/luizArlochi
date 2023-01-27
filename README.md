@@ -5,7 +5,7 @@
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=luizArlochi&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizArlochi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizArlochi&layout=compact&amp;langs_count=7&amp;theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
